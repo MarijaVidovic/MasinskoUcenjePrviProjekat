@@ -1,5 +1,5 @@
 # Mašinsko učenje prvi projekat
-# Coral Reef Bleaching - Supervised Machine Learning Project
+# Coral Reef Bleaching 
 
 Ovaj projekat se bavi primenom nadgledanog učenja na biološkom skupu podataka koji se odnosi na globalno izbeljivanje grebena. Cilj projekta je analiza faktora koji utiču na pojavu izbeljivanja i izgradnju modela mašinskog učenja za klasifikaciju nivoa izbeljivanja. 
 
